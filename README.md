@@ -11,7 +11,7 @@ This interactive Excel dashboard visualizes dummy retail sales data to uncover L
 ---
 
 ## 📊 Dashboard Highlights
-- 💰 Revenue by Region - column chart
+- 💰 Revenue by Location - column chart
 - 🔝 Top-Selling Products - horizontal bar chart
 - 📆 Monthly sales Trends - line chart
 - 🧩 Slicers: Region, Product, Month
@@ -38,6 +38,6 @@ This project strengthened my skills in:
 
 Click the 'screenshots' folder or view:
 - ![Dashboard Overview](screenshots/dashboard-full.png)
-- ![Revenue by Region](screenshots/revenue-by-region.png)
+- ![Revenue by Location](screenshots/revenue-by-location.png)
 - ![Top Products](screenshots/top-products.png)
 - ![Monthly Trends](screenshots/monthly-trends.png)
