@@ -37,7 +37,7 @@ This project strengthened my skills in:
 ## Screenshots
 
 Click the 'screenshots' folder or view:
-- ![Dashboard Overview](Screenshots/dashboard-full.png)
+- ![Dashboard Overview](Screenshots/dashboard-main.png)
 - ![Revenue by Location](screenshots/revenue-by-location.png)
 - ![Top-Selling](screenshots/top-products.png)
 - ![Monthly Revenue Trend](screenshots/monthly-trends.png)
