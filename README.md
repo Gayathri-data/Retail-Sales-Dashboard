@@ -37,14 +37,7 @@ This project strengthened my skills in:
 ## Screenshots
 
 Click the 'screenshots' folder or view:
- - ![Dashboard Overview](screenshots/dashboard-full.png)  
-_A full view of the Excel dashboard layout_
-
-- ![Revenue by Region](screenshots/revenue-by-region.png)  
-_Column chart showing sales performance across regions_
-
-- ![Top-Selling Products](screenshots/top-products.png)  
-_Bar chart of highest-performing products_
-
-- ![Monthly Revenue Trend](screenshots/monthly-trend.png)  
-_Line chart showing seasonal sales patterns_
+- ![Dashboard Overview](Screenshots/dashboard-full.png)
+- ![Revenue by Location](screenshots/revenue-by-location.png)
+- ![Top-Selling](screenshots/top-products.png)
+- ![Monthly Revenue Trend](screenshots/monthly-trends.png)
